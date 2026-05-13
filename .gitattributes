@@ -1,1 +1,6 @@
-* -text
+*.toml -text
+*.json -text
+*.properties -text
+*.txt -text
+*.json5 -text
+*.cfg -text
