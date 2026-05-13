@@ -1499,11 +1499,6 @@ file = "mods/watermedia-2.1.19.jar"
 hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
 
 [[files]]
-file = "mods/watervision.pw.toml"
-hash = "e15d048097d01280dfbc89346438f2da671ef768d4a7329d556d42f01e8440fd"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "90deab39ce6956d2dce380a23cd736e207bedacc98568650fb401f600a716872"
 metafile = true
