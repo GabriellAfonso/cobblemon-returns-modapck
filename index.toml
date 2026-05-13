@@ -774,7 +774,7 @@ hash = "86918755ea7ab304b3aa3c35c28254d0c5baf09b4e9fbd4b15851ec133c7aa60"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
-hash = "48acd65abf2a2c096269a159039c55c05b636a422683a62f02087ae792d065c0"
+hash = "e99d8b855eeb5ba6f8af1cec4b6a8d22166b03fe2a771336dcac524fe4f44924"
 
 [[files]]
 file = "emotes/Ascend.emotecraft"
@@ -1549,7 +1549,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gym-leaders-resourcepack.zip"
-hash = "43b4119a54ae3b0a7cecc2d469f855c482d3c6a6262429b9f9c1932d1bd2646c"
+hash = "adad52abe69d89d814e06fb5f0b79c5bf07f2e43e8f3eaa104a7692b8b1b37a1"
 
 [[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
