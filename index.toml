@@ -1491,14 +1491,12 @@ hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "6eacaa113ef27bddbd9c5966a65fd15a23d68bd826c1d594bfcf6c2380388e74"
-metafile = true
+file = "mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar"
+hash = "7c6a79c48132f74543784dc325895ac8061fe4ff0a8712a08ec8c36516f97844"
 
 [[files]]
-file = "mods/watermedia.pw.toml"
-hash = "7756678c5600a6d421f39ef00d4a25afd6ac6ba2d76ec9a10bd7536a8d4f8558"
-metafile = true
+file = "mods/watermedia-2.1.19.jar"
+hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
 
 [[files]]
 file = "mods/watervision.pw.toml"
