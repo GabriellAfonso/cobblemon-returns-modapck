@@ -1043,12 +1043,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
+hash = "7b1a4c05830e3a7cd23652389bc0275fba4a1a78b2ad29aa5f4a869e4dc9a124"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-challenge.pw.toml"
-hash = "94134e611812d608142c20647b5e3d0ffade2afc7a0b75b72990899063266676"
+hash = "80f3e845876cb0f2a2d8f06c1100f56ef1ff8f4f87c5c8a642673a0250697610"
 metafile = true
 
 [[files]]
@@ -1098,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-repel.pw.toml"
-hash = "e24423d7ff807f880b36acb374e00e28908182bf15fa916b6a319b9ce804f81f"
+hash = "758f07baa24cdd1065e440aa7d1fb4f774288b082c09ef278c5db7f42d01cce5"
 metafile = true
 
 [[files]]
@@ -1108,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
+hash = "4c19342aeb0abcfe566b38d62724a721881bf365b32293107959757fb8e48050"
 metafile = true
 
 [[files]]
@@ -1123,7 +1123,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "33076e9cc6db7e0562434e37b9d9ff9da3ffb1af9eae9457649ad36211d6ae43"
+hash = "fcae16c281a1fce8c440f65e333fdd318a7f738dd41c9102cf76f649968d2d97"
 metafile = true
 
 [[files]]
@@ -1133,12 +1133,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "dcff4edff3f1640641f9a5f17d17d1328565f9088e97f03773aa6bf8c54a8eb0"
+hash = "82cbfd5cf3bcf0bec02ae7ec5b182981561aa566df61683358e5612dae083fdb"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-wiki-gui.pw.toml"
-hash = "17c6c2efb77c8f6a0e794ab1e9b4f4b2e31ed0d164fa09ec27e0556c2856802f"
+hash = "ea237d90b16b68c78f67230ed049dd2ea32cd6e388bc3597f40916fc67cb9164"
 metafile = true
 
 [[files]]
@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/you-shall-not-spawn.pw.toml"
-hash = "0872e0697edfd6cada47815488d210c623ef6ba6aba17cfd271b4faa4af54439"
+hash = "99bec6ddc2e920fdb5dfcb357125c4a438ed36e7ab6c63e59a967cb3bcf9331d"
 metafile = true
 
 [[files]]
