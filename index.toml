@@ -1380,9 +1380,8 @@ hash = "f7c3012dc475bbf0f322f79d5f6e6beaaee14b6c1367ed4b1184147c0fb81be9"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
-metafile = true
+file = "mods/owo-lib-0.12.15.4+1.21.jar"
+hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
 
 [[files]]
 file = "mods/particular.pw.toml"
