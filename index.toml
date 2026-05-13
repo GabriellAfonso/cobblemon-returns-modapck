@@ -921,10 +921,6 @@ file = "emotes/tpose revive.emotecraft"
 hash = "ca85ea09afe227f2a5fc0078f2c8e3236be0e246cadbbaa98612bf4d9fa7a5f6"
 
 [[files]]
-file = "icon.png"
-hash = "ee968d57cbc21210bdf377fb9078f324d987759a514b743de536fa6aac2bb101"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6673f89fd7dd77fe94bd3fc7c4e28661435b5b54ae2e7e5a5a6f54ad9f1cec54"
 metafile = true
@@ -1534,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bc7cf3b0e39a99e27a134705958f00864a1b53c1606a2b74dcb4d10a59250e9b"
+hash = "10beada0903c9d5f66bab90f3140721b2923f7c67eb038d9ace4a442824aa250"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
