@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","moonlight:merged_pack","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","file/Cobblemon Interface v1.6.0.zip","file/XaerosCobblemon-3.0.4_stars+1.7.0.zip","cobbreeding:pasturefix","cobbreeding:coloredeggs","file/Traveler\u0027s Backpack Textures v1.2.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/CobbleSounds[Complete]_v1.4.1.zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","moonlight:merged_pack","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","file/Cobblemon Interface v1.6.0.zip","file/XaerosCobblemon-3.0.4_stars+1.7.0.zip","cobbreeding:pasturefix","cobbreeding:coloredeggs","file/RCT Trainers+ [1.6] v2.1.zip","file/CobbleSounds[Complete]_v1.4.1.zip","continuity:default","continuity:glass_pane_culling_fix","black_icons","file/Cobblemon Interface Modded v1.9.4.zip","file/TB Textures Cobblemon-fabric-1.5.zip","file/gym-leaders-resourcepack.zip"]
 incompatibleResourcePacks:["ali","balm","carryon","cobbledgacha","cobblesafari","easy_npc","easy_npc_config_ui","framework","jade","jei","modernfix","polymorph","refurbished_furniture","starterkit","terrablender","toms_storage","waterframes","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
@@ -111,7 +111,7 @@ key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
-key_key.advancements:key.keyboard.l
+key_key.advancements:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
@@ -139,14 +139,15 @@ key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
 key_key.cobblemon.ridingfreelook:key.keyboard.left.alt
 key_key.cobblemon_ranked.open_gui:key.keyboard.x
-key_key.cobblemon_smartphone.open:key.keyboard.k
+key_key.cobblemon_smartphone.open:key.keyboard.unknown
 key_key.cobblemonraiddens.mouse:key.keyboard.left.alt
 key_key.cobblemonraiddens.accept:key.keyboard.y
 key_key.cobblemonraiddens.deny:key.keyboard.n
 key_key.emotecraft.fastchoose:key.keyboard.h
 key_key.emotecraft.stop:key.keyboard.unknown
-key_inventorymanagement.keybind.position_edit.player:key.keyboard.k
-key_inventorymanagement.keybind.position_edit.container:key.keyboard.l
+key_key.entityculling.toggle:key.keyboard.unknown
+key_inventorymanagement.keybind.position_edit.player:key.keyboard.unknown
+key_inventorymanagement.keybind.position_edit.container:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -248,11 +249,13 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.z
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.5011037527593818
+soundCategory_master:0.5044150110375275
 soundCategory_music:0.20422535211267606
 soundCategory_record:0.3028169014084507
 soundCategory_weather:0.3075117370892018
