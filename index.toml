@@ -1406,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi-fabric-1.21.1-0.15.0-beta(modified).jar"
-hash = "dbb28fb0bd588fa2c768615e8761d4e0c6b0a8821fba01686cf0ebe720c933dc"
+hash = "aa6652fdcf32b0525519737af7297011f3f865dbdda94703e054b50d2195007e"
 
 [[files]]
 file = "mods/rctmod-fabric-1.21.1-0.17.7-beta(modified).jar"
