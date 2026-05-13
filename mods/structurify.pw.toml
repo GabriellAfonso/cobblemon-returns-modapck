@@ -1,0 +1,13 @@
+name = "Structurify – Structure Control"
+filename = "structurify-fabric-2.0.20+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0f6924c09a5191828720d75ed5a56e9038b1834"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7816055
+project-id = 1087551

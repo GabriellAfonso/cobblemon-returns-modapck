@@ -1,0 +1,13 @@
+name = "Advanced Loot Info"
+filename = "AdvancedLootInfo-fabric-1.21.1-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "271f3d0e2923de19989fb0ba4237e32dba388b1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7767453
+project-id = 1205426

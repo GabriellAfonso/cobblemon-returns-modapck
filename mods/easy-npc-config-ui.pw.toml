@@ -1,0 +1,13 @@
+name = "Easy NPC: Config UI"
+filename = "easy_npc_config_ui-fabric-1.21.1-6.11.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a2be1cb017d757c4e50e5f3f796c3699b2aa83b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7778166
+project-id = 1214728

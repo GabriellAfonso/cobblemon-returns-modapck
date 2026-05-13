@@ -1,0 +1,13 @@
+name = "Music Control"
+filename = "music_control-1.8.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a55561eeae46f54b03e5c0c6a037bb27af0e640a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5568489
+project-id = 436740

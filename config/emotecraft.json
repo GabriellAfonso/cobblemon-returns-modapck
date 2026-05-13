@@ -1,0 +1,40 @@
+{
+  "config_version": 4,
+  "loadbuiltin": true,
+  "quark": false,
+  "dark": false,
+  "oldChooseWheel": false,
+  "perspective": true,
+  "default3rdPersonFront": false,
+  "showicon": true,
+  "enableNSFW": false,
+  "alwaysOpenScreen": false,
+  "debug": true,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "emotesFolderOnLogicalServer": false,
+  "emotesDirectory": "emotes",
+  "autoFixEmoteStop": true,
+  "checkPose": true,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.04,
+  "yratio": 0.75,
+  "showHiddenConfig": false,
+  "neverRemoveBadIcon": false,
+  "exportBuiltin": false,
+  "hideWarning": false,
+  "fastmenu": {
+    "0": {
+      "0": "c087b6d4-0000-0000-0000-000000000000",
+      "1": "21034947-def0-4e2f-ac8e-c4bc434db4c3",
+      "2": "87e8adf4-0000-0000-0000-000000000000",
+      "3": "6f792aad-0589-47d1-900d-60d52337d77b",
+      "4": "02da2b2e-d48e-47fd-a485-aa2c6fb78b6a",
+      "5": "33b912f8-0aa0-45e6-a2d4-9b5677e6f35c",
+      "6": "3045b335-12ca-4ddb-aca5-0aef450a5e4c",
+      "7": "fc852918-60c7-455a-9c5d-ea972e2bf5b8"
+    }
+  },
+  "keys": {}
+}

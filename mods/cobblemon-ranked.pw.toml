@@ -1,0 +1,13 @@
+name = "Cobblemon Ranked"
+filename = "cobblemon_ranked-v1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ede5a3018a787d10c5f2c7e7a1b0ce374d1c6040"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7929510
+project-id = 1279164

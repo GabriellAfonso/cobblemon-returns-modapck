@@ -1,0 +1,13 @@
+name = "Cobblemon Wiki Gui"
+filename = "CobblemonWikiGui-fabric-2.4.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8704f4fa10d2539357c1009dca65e83b01d60b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7674749
+project-id = 1042000

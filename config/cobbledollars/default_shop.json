@@ -1,0 +1,44 @@
+{
+    "defaultShop": [
+      {
+        "Notes": [
+          {
+            "item": "cobbledollars_ticket:10cobbledollar",
+            "price": 10
+          },
+          {
+            "item": "cobbledollars_ticket:100cobbledollar",
+            "price": 100
+          },
+          {
+            "item": "cobbledollars_ticket:1000cobbledollar",
+            "price": 1000
+          },
+          {
+            "item": "cobbledollars_ticket:10000cobbledollar",
+            "price": 10000
+          },
+          {
+            "item": "cobbledollars_ticket:100000cobbledollar",
+            "price": 100000
+          },
+          {
+            "item": "cobbledollars_ticket:1000000cobbledollar",
+            "price": 1000000
+          }
+        ]
+      },
+      {
+        "Safari": [
+          {
+            "item": "cobblesafari:ticket_safari",
+            "price": 5000
+          },
+          {
+            "item": "cobblesafari:ticket_dungeon",
+            "price": 500
+          }
+        ]
+      }
+    ]
+  }

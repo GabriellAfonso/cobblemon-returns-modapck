@@ -1,0 +1,13 @@
+name = "Cobblemon Info for REI / EMI / JEI"
+filename = "cobbledex-rei-emi-jei-fabric-1.50.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16db0a6bb2e47ad6476a0299ffe4285a5361fcc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7982803
+project-id = 1458447

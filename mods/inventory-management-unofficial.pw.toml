@@ -1,0 +1,13 @@
+name = "Bloody's Inventory management"
+filename = "inventorymanagement-1.6.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "361139d4a89efef62f350df28368efd28c5ddb5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6487218
+project-id = 1256301

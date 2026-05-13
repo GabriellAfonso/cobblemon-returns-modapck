@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "enablePokemonSales": true,
+  "enableItemSales": true,
+  "enableAsyncSearches": false,
+  "broadcastListings": true,
+  "enablePermissionNodes": true,
+  "maxListingsPerPlayer": 15,
+  "listingDuration": 72,
+  "discord": {
+    "useWebhooks": false,
+    "url": "WEBHOOK_URL"
+  },
+  "showBreedable": false,
+  "taxRate": 0,
+  "minPrice1IV": 0,
+  "minPrice2IV": 0,
+  "minPrice3IV": 0,
+  "minPrice4IV": 0,
+  "minPrice5IV": 0,
+  "minPrice6IV": 0,
+  "minPriceHA": 0,
+  "minPriceLegendary": 0,
+  "minPriceUltrabeast": 0,
+  "maximumPrice": 999999999.0,
+  "customItemPrices": [
+    {
+      "item": {
+        "id": "cobblemon:item_that_does_not_exist",
+        "count": 1
+      },
+      "price": 1.0
+    }
+  ],
+  "bannedItems": [],
+  "customPokemonPrices": [
+    {
+      "pokemon": {
+        "species": "fakemon_placeholder",
+        "form": "",
+        "ability": "nonexistent_ability",
+        "gender": "male"
+      },
+      "price": 1.0
+    }
+  ],
+  "bannedPokemon": [],
+  "removedModDescriptions": [
+    "simpletms"
+  ]
+}

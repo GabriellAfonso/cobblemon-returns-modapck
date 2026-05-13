@@ -1,0 +1,13 @@
+name = "Global Datapacks"
+filename = "global-datapack-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aec93481fa5173a91f69271ff180027624f127b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6433062
+project-id = 594773

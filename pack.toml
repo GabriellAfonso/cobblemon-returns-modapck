@@ -1,0 +1,13 @@
+name = "Cobblemon Returns"
+author = "Gabriel Afonso"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a6f14870df9082d85df152af2be81f2b125fb3ac743ce6b9447b10e97c1dd86"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.21.1"

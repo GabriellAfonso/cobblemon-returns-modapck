@@ -1,0 +1,13 @@
+name = "Cobblemon Repel"
+filename = "CobblemonRepel-1.7-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c592f25a20f66c821d78cdb96a47d05f62a5abe4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7264974
+project-id = 1200511

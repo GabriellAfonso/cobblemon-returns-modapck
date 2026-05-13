@@ -1,0 +1,13 @@
+name = "Cobblemon Catch Rate Display"
+filename = "catchrate-display-fabric-2.8.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c7543fbd9d5a4aba543f72a15dcceb99fc18e3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7980992
+project-id = 1450604

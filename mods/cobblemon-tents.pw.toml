@@ -1,0 +1,13 @@
+name = "Cobblemon: Tents"
+filename = "cobblemontents-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d01ca1ffccba378056b21274464d956f5872dda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7920486
+project-id = 1473721
