@@ -3,11 +3,11 @@ filename = "cobblemontents-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d01ca1ffccba378056b21274464d956f5872dda"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GVcvsAFM/versions/pSAvUfWY/cobblemontents-1.0.3.jar"
+hash-format = "sha512"
+hash = "267eb1c878a867c306a13e481d04e0766bce4b8230f684bffe19bc04ba5fc872e6bb121eef9c20e440f0c902167cf2d69972dc87f658e67173826ac9553802cc"
 
 [update]
-[update.curseforge]
-file-id = 7920486
-project-id = 1473721
+[update.modrinth]
+mod-id = "GVcvsAFM"
+version = "pSAvUfWY"

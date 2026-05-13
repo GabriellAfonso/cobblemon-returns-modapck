@@ -3,11 +3,11 @@ filename = "CobbleFurnies-fabric-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "90cf04996fbb1df8d0fb4014ec27121ee000ac5a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AXY1OO9m/versions/kjN188h5/CobbleFurnies-fabric-1.1.jar"
+hash-format = "sha512"
+hash = "a645e4a1a573c9891cf1cd32f38b7fc9e7c4f00db47042d7303b74585d0e5fc087f569b5705da2c0aaeaad9929a8f5423bd4b609349685cfa227090cb8e6f271"
 
 [update]
-[update.curseforge]
-file-id = 7969053
-project-id = 1188698
+[update.modrinth]
+mod-id = "AXY1OO9m"
+version = "kjN188h5"

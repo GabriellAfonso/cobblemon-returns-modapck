@@ -3,11 +3,11 @@ filename = "Scoremons-3.1+Cobblemon-1.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "238aade2a39b4fb02dcf5d4f72bc316db53acb53"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dy0z9ILX/versions/sPJkpbB5/Scoremons-3.1%2BCobblemon-1.7.2.jar"
+hash-format = "sha512"
+hash = "01fe0d976e5f32fe65b9ccc26e499ba10626e07b48bce28d091632b4111cac3597fb384e85341886ab8e0e3e4f0e54f1f353b0f248d5a497033670bba4d433dd"
 
 [update]
-[update.curseforge]
-file-id = 7524040
-project-id = 1210408
+[update.modrinth]
+mod-id = "dy0z9ILX"
+version = "sPJkpbB5"

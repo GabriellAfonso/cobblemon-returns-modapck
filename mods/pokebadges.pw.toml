@@ -3,11 +3,11 @@ filename = "pokebadges-fabric-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6af967320fa0baee9419409d1ac9f55b57781c5d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XoK0D7K2/versions/xI3u0x1y/pokebadges-fabric-1.3.jar"
+hash-format = "sha512"
+hash = "b06cf41eb4e90c096ef1c23e5fb3c168e5a963a8e481ddca74d47bcc18b3e031a360dcd83096eb48e207ec603b418edee5a9105c874eb82b2ceaa7a705dbba89"
 
 [update]
-[update.curseforge]
-file-id = 7858949
-project-id = 1460979
+[update.modrinth]
+mod-id = "XoK0D7K2"
+version = "xI3u0x1y"

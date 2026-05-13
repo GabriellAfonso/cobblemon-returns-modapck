@@ -3,11 +3,11 @@ filename = "OnlyPaxel-1.21.1-0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c8bf053a87b0e0687abf5c7c2581a3c5c502e42"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MzCqE56H/versions/TcpGhDhQ/OnlyPaxel-1.21.1-0.3.jar"
+hash-format = "sha512"
+hash = "fbeea08a28af37133c8359e9fdf1984e18883aa32de8cf90c38d183c927932834c4906a879617ed43e417288f633f3f7cce7e5eea9dae497dd974df2a1b8be62"
 
 [update]
-[update.curseforge]
-file-id = 6990718
-project-id = 1213806
+[update.modrinth]
+mod-id = "MzCqE56H"
+version = "TcpGhDhQ"

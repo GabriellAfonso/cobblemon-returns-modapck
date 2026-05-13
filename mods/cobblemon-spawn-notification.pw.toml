@@ -1,13 +1,13 @@
 name = "Cobblemon Spawn Notification"
 filename = "spawnnotification-fabric-1.7.3-2.3.0.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "9dd176d13b4fcfc23491ab1c7ad361485fa33a7a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LPuJjiQz/versions/IosXrYj8/spawnnotification-fabric-1.7.3-2.3.0.jar"
+hash-format = "sha512"
+hash = "b40fd364b85ff1758d0893e1571bb413620870189148e7db5f32a9a6c4f92811cd3d6170a8b8d24dc18c1342b17a634cceb685695651b49c6c607a2cc3a118e6"
 
 [update]
-[update.curseforge]
-file-id = 7567277
-project-id = 890745
+[update.modrinth]
+mod-id = "LPuJjiQz"
+version = "IosXrYj8"
