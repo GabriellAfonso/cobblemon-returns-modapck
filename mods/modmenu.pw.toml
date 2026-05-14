@@ -14,4 +14,4 @@ version = "v6Xx3fbU"
 
 [option]
 optional = true
-default = false
+default = true

@@ -14,4 +14,4 @@ version = "xCWQ8iLW"
 
 [option]
 optional = true
-default = false
+default = true

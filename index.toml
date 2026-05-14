@@ -922,7 +922,7 @@ hash = "ca85ea09afe227f2a5fc0078f2c8e3236be0e246cadbbaa98612bf4d9fa7a5f6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2593c471332827e09874522602ee7a30731cf856784bc6deda5fe6b4ba713a33"
+hash = "4596307cdc18c1eea1ab5d2c5a70ffa97bcfc1e19863ffcc8928bf1469a544f6"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a6246fddc6f902bef25113bf6f89adaa452658edc3484432d135c04f83047e52"
+hash = "4c0dd37cf63ad4e52e80f949ea640f9a25736c772d69982d82638e4fdca61658"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "c99c42f189faecdade12b417bc1bcfc6e341667da84c1f3b7b2ddcb915235ec4"
+hash = "b6a28a6dc748a7029bc69d496c9206e06ec29c677628cf30aad8bc9bd99c6eda"
 metafile = true
 
 [[files]]
@@ -981,12 +981,12 @@ metafile = true
 
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "b19cb4212cc482756a276f9d4401b114f96f601814439eb401d02b34763a7dfb"
+hash = "0557e526c52e70509c4f02f16a95b9b8aaca487c0453fdf0607fcc2e21facc0f"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c9eeba5dcfd5732364d37341f36a2e1b075fc26248fecdf963aa4b3591ad498c"
+hash = "f2fe3b6659b0d9ea03270a6b8f781938e476796b0a77726c4f7e7cbd6e2b69f8"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "1f7a2944cd081f04d19161a5b7e0cbe28021608a9158bc0146d8fffb4776b221"
+hash = "0ea59efbb3121992830d9cc94e764f55205ad79c69f59ebdc236d44f20f928f6"
 metafile = true
 
 [[files]]
@@ -1178,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "983adc90cd75eb225c1bd63e3eb4a5c30ad27ae3aeea57bf11540356ca115330"
+hash = "1ebafd7116a8335f2f5e599377ec968877ae3b598de0a877564bfbb10bde43cd"
 metafile = true
 
 [[files]]
@@ -1208,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/datapacks.pw.toml"
-hash = "b21642d677f22673321981ca6b1e9c3ad0efc74a684e1ccf99d06d2b24778298"
+hash = "79c2c00fb1e217cea67bb4c6fe3d2ef6f8cfafe24a268302a63bd656592f309a"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "520c694a12766097a09686ecfc3fac109683a77fee08d9691bf87962ab50ae19"
+hash = "a89753b6192897e43305dd08266d474ad3c657529ec2968dcbbc03f24c3193c5"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "77b37998e26f75daf44ab705ae7c2c44f5ebcad4bf3bf9674a77ad8235a1e34d"
+hash = "ec3c31d892a8e0a034779c567f7ba63669dbe9ff0f09fa28bb380f3064191bb8"
 metafile = true
 
 [[files]]
@@ -1297,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a3b32f4ec1ac3ec710904d16084c2631fffb06e49842f07c8a3b7981b1d370f8"
+hash = "4b161299660ac1040b3327b7a9ecc43f7eeb4633b7ea341c3b7379a5f6c4eee0"
 metafile = true
 
 [[files]]
@@ -1337,7 +1337,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9f6bbc5acf83a21cf2fb5f59dcbc425eca5bdd63c2531cfd92da8395bba92835"
+hash = "07de8a989c31a792b7f07e36dfe327f68f375b46bf470ce7b9f7c67e02efe674"
 metafile = true
 
 [[files]]
@@ -1367,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e1fec094e3b75bef895c405d26c6af09abba2ba488a9fdf29d0a91b19f288f9b"
+hash = "05df5854e54444ab8ee636ce0f205271b48d7803db17448e74000b8649ca6129"
 metafile = true
 
 [[files]]
@@ -1381,7 +1381,7 @@ hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "ffd98498b284b50cf4737bfa2fbaf165bae66735bcc2dcfd784e88f3111e6b0e"
+hash = "f13e99b453e897277c9dd3d224c86a9ddbd08b03bb2429f5285fbfc542712131"
 metafile = true
 
 [[files]]
@@ -1438,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f5e77086f3bb56607bc0a6f90ef096e34a7ed9372b1d31a51ce9710b91f4fac3"
+hash = "ee9e9fba4d44fc02e7465f48b363c8750226aad0c383e2148d345b51e7283801"
 metafile = true
 
 [[files]]
@@ -1525,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0d5626492ceeabe107116cfdc469ab9f8e03cbff4c1e5fdb9ffd9ee759d0cf2b"
+hash = "60412ab991456999b13cc8e4b99cf417ec50d682eacee041c25d11aad308f1a6"
 metafile = true
 
 [[files]]

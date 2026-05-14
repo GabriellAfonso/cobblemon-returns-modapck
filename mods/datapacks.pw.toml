@@ -14,4 +14,4 @@ version = "8vDEtmj4"
 
 [option]
 optional = true
-default = false
+default = true
