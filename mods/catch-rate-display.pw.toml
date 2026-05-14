@@ -11,3 +11,7 @@ hash = "1c92ca05ff0defbc573f0abb15e0e9c0a6d0a7189384f15e01884d019aa93eef2107ae08
 [update.modrinth]
 mod-id = "vADO40xp"
 version = "4MuGKLQg"
+
+[option]
+optional = true
+default = false
