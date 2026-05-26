@@ -1257,6 +1257,11 @@ hash = "580177e2f6e3d1bebbde2217816737fc048925aa672903c13d5308938dc9f477"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "89e18f90b2476b7f9e518cfa237c6daed3091043e3f22db3dd38c2da5b26ede5"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
 metafile = true
