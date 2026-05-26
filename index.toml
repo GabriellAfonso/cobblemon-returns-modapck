@@ -1640,7 +1640,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "10beada0903c9d5f66bab90f3140721b2923f7c67eb038d9ace4a442824aa250"
+hash = "4214a1feb97d79f8660dd66e3182798d447f4ce2cae0c982c45c6bfb3978f19d"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
