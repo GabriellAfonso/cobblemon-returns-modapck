@@ -1242,6 +1242,11 @@ hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "18c4c3fa607b7713fc1379bf37830a63b79afcadae5416a867ba39d70e08123c"
+metafile = true
+
+[[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
 hash = "3455f6a5559fa339f44b49b9d1e511d5f1c00b6a69e3f06928e512d5a9608180"
 metafile = true
