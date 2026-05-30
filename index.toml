@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/Gts-2.5.2-market-(my).jar"
-hash = "3aea26fb5c2bb4e8d2c6b405132ef827e83a7250d504edbbe1de0b77a17e6a23"
+hash = "9f00fd6c7c3237087a7c09290c5cece29c5382e52ca9d2a2fdb0c40653f43db1"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -1650,7 +1650,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4214a1feb97d79f8660dd66e3182798d447f4ce2cae0c982c45c6bfb3978f19d"
+hash = "236eb273f34bed616cbbbe2e27dc09a5c2f00aa54e7c2144a65197b6ade96834"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
