@@ -770,7 +770,7 @@ hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
 
 [[files]]
 file = "datapacks/cobbledgacha_override.zip"
-hash = "972735c6dc0f7668a3a13c9e11bc0aa0601200e6b945f8eefc2e69e5d5d163c5"
+hash = "88cd9f456629f2de233309717090339446b98a3f5d91e563ce9475c19b877f8c"
 
 [[files]]
 file = "datapacks/cobblesafari-datapack.zip"
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbledollars_easynpc-fabric-1.0.0-(my).jar"
-hash = "442e965c16285bcae24b87b98e1213e836ecb524c2c1ae86f4e9b8cfe1e0def0"
+hash = "2c28ff337867e333cba8d41eb8451574152dcd80d54cf8f55b27dc7f4febe414"
 
 [[files]]
 file = "mods/cobbledollars_notes-1.5.1-(my).jar"
@@ -1184,6 +1184,11 @@ metafile = true
 [[files]]
 file = "mods/cobblesafari.pw.toml"
 hash = "bbf812d8a9426ba6bc485208a8a48330e3a9745a9e69ac2077d15b7f4a370703"
+metafile = true
+
+[[files]]
+file = "mods/cobbletcg.pw.toml"
+hash = "697956a1f82a9cc56443a9d7ea3adaef4d5749b2dde05a8e5e731ae72bae89ed"
 metafile = true
 
 [[files]]
@@ -1660,6 +1665,15 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "236eb273f34bed616cbbbe2e27dc09a5c2f00aa54e7c2144a65197b6ade96834"
+
+[[files]]
+file = "resourcepacks/CobbleTCG.pw.toml"
+hash = "1983feaf2960ba8a62049f68c2b968b3f3541efc8e47684120fec817521a5f11"
+metafile = true
+
+[[files]]
+file = "resourcepacks/CobbleTCG.zip"
+hash = "ec4ba9e1dc829e7f1a0b9e7431b07fc6848ebab21fe03b3fc60b3cf1572b4ef5"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"

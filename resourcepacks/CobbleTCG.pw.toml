@@ -1,0 +1,8 @@
+name = "CobbleTCG"
+filename = "CobbleTCG.zip"
+side = "client"
+
+[download]
+url = "https://github.com/GabriellAfonso/cobblemon-returns-modpack/releases/download/Assets/CobbleTCG.zip"
+hash-format = "sha512"
+hash = "defcfdcdb6b975c7e4b76bfbbcbadfcd2bd959d0397e05f7a29cfaff9155e3b2d7a2df1d63c82f6ca8f508b8a2a279e7798903d418ae3ed2f518d6e23aabf891"
