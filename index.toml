@@ -769,6 +769,10 @@ file = "datapacks/CobbleSounds[Data]_v1.4.zip"
 hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
 
 [[files]]
+file = "datapacks/cobbledgacha_override.zip"
+hash = "972735c6dc0f7668a3a13c9e11bc0aa0601200e6b945f8eefc2e69e5d5d163c5"
+
+[[files]]
 file = "datapacks/cobblesafari-datapack.zip"
 hash = "86918755ea7ab304b3aa3c35c28254d0c5baf09b4e9fbd4b15851ec133c7aa60"
 
@@ -1487,6 +1491,11 @@ metafile = true
 [[files]]
 file = "mods/pokebadges.pw.toml"
 hash = "967f8716f59d7778aa7d38cfcc87aa6e07e75d827e993119d9d512e2cbfc0ebe"
+metafile = true
+
+[[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "5db32bd841fda8547d27e6c74ca4c11ea9a50285fbade0bed654deb8b5e48db0"
 metafile = true
 
 [[files]]
