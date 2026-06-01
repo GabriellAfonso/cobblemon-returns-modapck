@@ -1667,6 +1667,26 @@ file = "options.txt"
 hash = "236eb273f34bed616cbbbe2e27dc09a5c2f00aa54e7c2144a65197b6ade96834"
 
 [[files]]
+file = "resourcepacks/CobbleTCG_bbolt.zip"
+hash = "6183500be044b715092cd70e24535129e5c14f40bd8e1e27323fa24b00a7a1a7"
+
+[[files]]
+file = "resourcepacks/CobbleTCG_eskies.zip"
+hash = "6cd31ba038f0f04977b022a33bb8541cab334ccb66a3791d3f3f2e4905a0d010"
+
+[[files]]
+file = "resourcepacks/CobbleTCG_hfates.zip"
+hash = "3f50de0beb8a6abf614e8b8dcf86a803d8cab0b7500f33d18fe1ca8f182269a3"
+
+[[files]]
+file = "resourcepacks/CobbleTCG_mew151.zip"
+hash = "cc9269a6c77810a85e6a348f2572a8c14291133c3a8a2a2839a07141c6df06ee"
+
+[[files]]
+file = "resourcepacks/CobbleTCG_wflare.zip"
+hash = "93451c89843260560bf34e8407855356335db21d906dfbfe7b480e514780d9c9"
+
+[[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
 hash = "f812bf391fc0a1577007d566a1c87c4aa65286f56880b05552f186d28ebced52"
 metafile = true
@@ -1679,16 +1699,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblesounds.pw.toml"
 hash = "27dc8961457147587c9afaccee02231182b1ed2c21a8fc28ad8cd0b86b2b42d0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobbletcg-resourcepack5.pw.toml"
-hash = "ab82fb6ecb0e7fec16e55497e337916092afba91a59a5cfbd90b8c1f9b816ec7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobbletcg-resourcepacks.pw.toml"
-hash = "b8605d48c4fee4c549601bf7c33d42132b7cfbb518072b0583c55176bc44e79c"
 metafile = true
 
 [[files]]
