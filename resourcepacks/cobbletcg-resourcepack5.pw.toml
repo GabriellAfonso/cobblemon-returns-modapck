@@ -1,0 +1,13 @@
+name = "CobbleTCG-ResorcePack5"
+filename = "CobbleTCG_ResourcePack5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LlYPpDqH/versions/2RsYsp9m/CobbleTCG_ResourcePack5.zip"
+hash-format = "sha512"
+hash = "f3a243feac3ec97799408f7bab45764c15674cb49d81f3b54f2888e2919789beafb213dfc756ca7fa8ba2865c7646d79597c5ca75d73c935fbecc04191a2a0ff"
+
+[update]
+[update.modrinth]
+mod-id = "LlYPpDqH"
+version = "2RsYsp9m"
