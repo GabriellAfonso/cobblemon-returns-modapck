@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CobbleDollarNotes/config.json"
-hash = "3a60d624620eb5ff555d1aaa37575bcfc01b688d512d09663abb31f74daa4643"
+hash = "45a674c46ad8397b833b15b4ef4fbd4604c5583f8bd87e3e334da6d3e0fa4528"
 
 [[files]]
 file = "config/LegendaryMonuments/pedestals.json"
